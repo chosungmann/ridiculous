@@ -1,5 +1,7 @@
 # Buy from Ridi, Read Anywhere!
 
+[![https://github.com/chosungmann/ridiculous/actions/workflows/continuous_integration.yaml/badge.svg](https://github.com/chosungmann/ridiculous/actions/workflows/continuous_integration.yaml/badge.svg)](https://github.com/chosungmann/ridiculous/actions/workflows/continuous_integration.yaml)
+
 [![docs/creative_commons_zero.svg](docs/creative_commons_zero.svg)](https://creativecommons.org/public-domain/cc0/)
 
 `ridiculous` is a command-line interface tool that extracts the ebooks you've purchased from [Ridi](https://ridi.com/) and converts them into DRM-free files, enabling you to read them with your preferred ebook readers. It currently only supports EPUB and PDF formats.
